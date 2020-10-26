@@ -271,7 +271,7 @@ const Main = props => {
   const [openSidebar, setOpenSidebar] = useState(false);
 
   const handleSidebarOpen = () => {
-    setOpenSidebar(true);
+    setOpenSidebar(false);
   };
 
   const handleSidebarClose = () => {
