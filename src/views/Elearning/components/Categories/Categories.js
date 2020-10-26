@@ -24,11 +24,16 @@ const Categories = props => {
       <SectionHeader
         title={
           <span>
-            Choose your course by{' '}
-            <span className="text-highlighted">categories</span>
+            Looking for content{' '}
+            <span className="text-highlighted">creators</span>
           </span>
         }
-        subtitle="Browse the available course categories, choose your favourite one and start learning."
+        subtitle={
+          <span>
+          Help us in creating engaging content and make a difference today!{' '}
+          <span className="text-highlighted">apply at info@xlearning.com</span>
+          </span>
+        }
         fadeUp
       />
       <Grid container spacing={isMd ? 4 : 2}>

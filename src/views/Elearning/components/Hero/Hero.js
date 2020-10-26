@@ -30,15 +30,14 @@ const Hero = props => {
               title={
                 <span>
                   <span className="text-highlighted__primary">
-                    Learn new skills,
+                    We are Hiring.
                   </span>{' '}
-                  gain more experience
                 </span>
               }
-              subtitle="Our mission is to spread education that is easy accessible and everyone can learn."
+                subtitle="If you are passionate about teaching and love creating engaging content reach out to us today"
               ctaGroup={[
                 <Button variant="contained" color="primary" size="large">
-                  Start now
+                  info@xlearnings.com
                 </Button>,
               ]}
               align="left"

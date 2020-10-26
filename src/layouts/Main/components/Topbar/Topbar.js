@@ -174,10 +174,6 @@ const Topbar = props => {
       <div className={classes.menu}>
         <div className={classes.menuItem}>
           <MenuGroup item={services} />
-          <MenuGroup item={apps} />
-        </div>
-        <div className={classes.menuItem}>
-          <MenuGroup item={web} />
         </div>
       </div>
     );

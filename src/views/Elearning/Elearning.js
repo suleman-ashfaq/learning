@@ -50,14 +50,14 @@ const Elearning = () => {
         <Section>
           <Divider />
         </Section>
-        <Courses data={popularCourses} className={classes.coursesSection} />
+      {/*   <Courses data={popularCourses} className={classes.coursesSection} /> */}
       </SectionAlternate>
-      <Section className={classes.paddingBottom0}>
+    {/*  <Section className={classes.paddingBottom0}>
         <Reviews data={reviews} />
       </Section>
       <SectionAlternate innerNarrowed className={classes.sectionAlternate}>
         <Subscription />
-      </SectionAlternate>
+      </SectionAlternate> */}
     </div>
   );
 };
