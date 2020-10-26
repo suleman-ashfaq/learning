@@ -135,17 +135,17 @@ export default function App({ Component, pageProps }) {
                 <meta property="og:type" content="website" />
                 <meta
                 property="og:image"
-                content="https://thefront.maccarianagency.com/social.png"
+                content="https://www.learnupon.com/wp-content/uploads/Blog-Top-eLearning-PMT-720x300.png"
                 />
                 <meta
                 property="og:title"
-                content="theFront | UI Kit by Maccarian Agency."
+                content="xLearning | Engaging Content Creators."
                 />
                 <meta
                 property="og:description"
-                content="A modern design system for your new landing and web pages."
+                content="Helping students worldwide in learning."
                 />
-                <meta property="og:url" content="https://thefront.maccarianagency.com/" />
+                <meta property="og:url" content="https://learning-theta.vercel.app/" />
                 <link
                 href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&display=swap"
                 rel="stylesheet"
