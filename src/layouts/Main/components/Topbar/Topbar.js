@@ -310,12 +310,12 @@ const Topbar = props => {
                 className={classes.listItemText}
                 component="a"
                 target="blank"
-                href="https://thefront-styleguide.maccarianagency.com/"
+                href="https://https://learning-theta.vercel.app/"
               >
               </Typography>
             </ListItem>
             <ListItem className={classes.listItem}>
-              <Button
+            {/*  <Button
                 size="large"
                 variant="contained"
                 color="primary"
@@ -326,7 +326,7 @@ const Topbar = props => {
                 disabled
               >
                 Buy Now
-              </Button>
+              </Button> */}
             </ListItem>
           </List>
         </Hidden>

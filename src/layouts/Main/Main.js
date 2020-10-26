@@ -33,6 +33,10 @@ const Main = props => {
               title: 'E-Learning',
               href: '/e-learning',
             },
+            {
+              title: 'Tutoring',
+              href: '/e-learning',
+            },
           ],
         },
         apps: {

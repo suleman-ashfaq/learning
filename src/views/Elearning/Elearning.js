@@ -42,9 +42,9 @@ const Elearning = () => {
   return (
     <div className={classes.root}>
       <Hero />
-      <Section>
+    {/*  <Section>
         <PromoNumbers data={promoNumbers} />
-      </Section>
+      </Section> */}
       <SectionAlternate>
         <Categories data={courseCategories} />
         <Section>
