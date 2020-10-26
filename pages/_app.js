@@ -125,7 +125,7 @@ export default function App({ Component, pageProps }) {
                 <meta name="theme-color" content="#ffffff" />
                 <meta
                 name="description"
-                content="A modern design system for your new landing and web pages."
+                content="Helping students worldwide in learning."
                 />
                 <meta
                 name="robots"
@@ -151,7 +151,7 @@ export default function App({ Component, pageProps }) {
                 rel="stylesheet"
                 />
                 <title>
-                theFront | UI Kit by Maccarian Agency.
+                XLearnings | Engaging Content Creators.
                 </title>
                 <script
                 src="https://kit.fontawesome.com/4c273e6d43.js"
