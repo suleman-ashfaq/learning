@@ -37,7 +37,7 @@ const Hero = props => {
                 subtitle="If you are passionate about teaching and love creating engaging content reach out to us today"
               ctaGroup={[
                 <Button variant="contained" color="primary" size="large">
-                  info@xlearnings.com
+                  info@explearning.io
                 </Button>,
               ]}
               align="left"

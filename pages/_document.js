@@ -106,7 +106,7 @@ export default class MyDocument extends Document {
             />
             <meta
             property="og:title"
-            content="XLearnings | Engaging Content Creators."
+            content="Experiential Learning | Engaging Content Creators."
             />
             <meta
             property="og:description"

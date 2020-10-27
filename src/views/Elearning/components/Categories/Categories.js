@@ -31,7 +31,7 @@ const Categories = props => {
         subtitle={
           <span>
           Help us in creating engaging content and make a difference today!{' '}
-          <span className="text-highlighted">apply at info@xlearning.com</span>
+          <span className="text-highlighted">apply at info@explearning.io</span>
           </span>
         }
         fadeUp

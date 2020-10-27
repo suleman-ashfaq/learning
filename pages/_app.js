@@ -139,7 +139,7 @@ export default function App({ Component, pageProps }) {
                 />
                 <meta
                 property="og:title"
-                content="xLearning | Engaging Content Creators."
+                content="Experiential Learning | Engaging Content Creators."
                 />
                 <meta
                 property="og:description"
@@ -151,7 +151,7 @@ export default function App({ Component, pageProps }) {
                 rel="stylesheet"
                 />
                 <title>
-                XLearnings | Engaging Content Creators.
+                Experiential Learning | Engaging Content Creators.
                 </title>
                 <script
                 src="https://kit.fontawesome.com/4c273e6d43.js"

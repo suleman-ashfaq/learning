@@ -248,7 +248,7 @@ const Topbar = props => {
           <a href="/" title="thefront">
             <Image
               className={classes.logoImage}
-              src="/images/logos/logo.svg"
+              src="/images/logos/exp.svg"
               alt="thefront"
               lazy={false}
             />
@@ -310,7 +310,7 @@ const Topbar = props => {
                 className={classes.listItemText}
                 component="a"
                 target="blank"
-                href="https://https://learning-theta.vercel.app/"
+                href="https://explearning.io/"
               >
               </Typography>
             </ListItem>
