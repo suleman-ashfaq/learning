@@ -197,8 +197,8 @@ const Footer = props => {
                   <a href="/" title="thefront">
                     <Image
                       className={classes.logoImage}
-                      src="/images/exp.svg"
-                      alt="explearn"
+                      src="exp.svg"
+                      alt="thefront"
                       lazy={false}
                     />
                   </a>

@@ -1,4 +1,4 @@
-## [XLearnings](https://learning-theta.vercel.app/)
+## [Experiential Learning](https://learning-theta.vercel.app/)
 
 Material React Landing Pages Kit made with [Material UI's](https://material-ui.com/?ref=maccarian-agency) components, [React](https://reactjs.org/?ref=maccarian-agency) and of course [NextJS](https://nextjs.org/?ref=maccarian-agency) to boost your app development process!
 A professional React Kit that comes with plenty of ready-to-use Material-UI components that will help you to build faster & beautiful Fontend pages. Each component is fully customizable, responsive and easy to integrate.
