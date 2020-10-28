@@ -59,13 +59,13 @@ const Courses = props => {
       <SectionHeader
         title={
           <span>
-            Browse our <span className="text-highlighted">popular courses</span>
+            Our <span className="text-highlighted">Mission</span>
           </span>
         }
-        subtitle="Here are our popular course you might want to learn from your tutor."
+        subtitle="Experiential Learning is your one stop shop to all your learning needs.  Our services are focused around created online courses and providing quality tutoring to students.  Our courses span a variety of topics with a primary focus on the latest technologies.  Each of our instructors are experts in their domain with a proven track record of success.  Our goal is to deliver quality education to the masses at affordable rates.  In the realm of tutoring, we offer a diverse range of options to suit everyone's needs: some of our tutors have 10+ years of tutoring experience and hold doctoral degrees from ivy league institutions while others are currently college students with a penchant for teaching and grades to prove it.  Customer satisfaction is at the core of our efforts.  Reach out to us today to find out how we can best serve your needs."
         fadeUp
       />
-      <Grid container spacing={isMd ? 4 : 2}>
+    {/*  <Grid container spacing={isMd ? 4 : 2}>
         {data.map((item, index) => (
           <Grid key={index} item xs={12} sm={6} data-aos="fade-up">
             <CardProduct
@@ -165,7 +165,7 @@ const Courses = props => {
             />
           </Grid>
         ))}
-      </Grid>
+      </Grid> */}
     </div>
   );
 };

@@ -50,7 +50,7 @@ const Elearning = () => {
         <Section>
           <Divider />
         </Section>
-      {/*   <Courses data={popularCourses} className={classes.coursesSection} /> */}
+      <Courses data={popularCourses} className={classes.coursesSection} />
       </SectionAlternate>
     {/*  <Section className={classes.paddingBottom0}>
         <Reviews data={reviews} />
